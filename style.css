@@ -102,13 +102,6 @@ body {
     text-align: center;
   }
   
-  .gift img {
-    width: 300px;
-    height: 300px;
-    float: center;
-    margin: 100px;
-  }
-
   #payment-form {
     margin: 20px;
     padding: 10px;
